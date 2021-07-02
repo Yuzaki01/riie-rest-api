@@ -29,7 +29,7 @@ const fetch = require('node-fetch');
     .then(res => {
         console.log(res);
     })
-})
+})()
 ```
 ## **Thank You For Visiting!**
 * [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/Natsu062)
