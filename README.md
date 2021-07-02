@@ -22,7 +22,7 @@ $ npm i node-fetch
 const fetch = require('node-fetch');
 
 (async () => {
-    const animeSearchAPI = 'https://natsu.yuu02.repl.co/api/riie/search/'
+    const endpoint = 'https://natsu.yuu02.repl.co/api/riie/search/'
     const query = 'naruto'
     
     fetch(`${animeSearchAPI}${query}`).then(response.json())
