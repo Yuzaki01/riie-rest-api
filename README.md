@@ -17,7 +17,7 @@ https://natsu.yuu02.repl.co/api/riie/
 ```
 $ npm i node-fetch
 ```
-#### **Code Example**
+#### **Code Example ~ Anime Search**
 ```js
 const fetch = require('node-fetch');
 
