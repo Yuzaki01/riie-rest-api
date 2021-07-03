@@ -31,5 +31,37 @@ const fetch = require('node-fetch');
     })
 })()
 ```
+#### **Result**
+```json
+{
+    "author": "Nathz",
+    "donasi": "https://saweria.co/Natsu062",
+    "error": "false",
+    "data": [
+        {
+            "judul": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+            "judulAlt": "Naruto the Movie 2: Legend of the Stone of Gelel",
+            "year": "2005",
+            "description": "Naruto, Shikamaru dan Sakura sedang dalam misi untuk mengantarkan hewan kesayangan ke sebuah desa saat seorang ksatria misterius muncul untuk menghadapi mereka.",
+            "rating": "6.93",
+            "jumlahVote": "86469",
+            "status": "Ended",
+            "totalEpisode": "1",
+            "hariTayang": "Sabtu",
+            "genreList": [
+                "Drama",
+                "Supernatural",
+                "Mystery",
+                "Comedy",
+                "Adventure",
+                "Shounen",
+                "Animation"
+            ],
+            "thumb": "https://img.topddl.net/images/2020/05/24/76016l.th.jpg",
+            "url": "https://riie.jp/movie/naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo"
+        }
+    ]
+}
+```
 ## **Thank You For Visiting!**
 * [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/Natsu062)
