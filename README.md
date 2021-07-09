@@ -1,4 +1,4 @@
-### RiiE Rest API Made by Nathz
+# RiiE Rest API Made by Nathz
 
 ## **API**
 ```
