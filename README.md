@@ -1,10 +1,6 @@
 # RiiE Rest API Made by Nathz
-
-## **API**
-```
-https://natsu.yuu02.repl.co/api/riie/
-```
 ## **Documentation**
+API : [Click Here](https://natsu.yuu02.repl.co/api/riie/)
 | No | Endpoint | Parameter | Description |
 | :---: | ------ | :------: | :--------: |
 | 1 | /homepage | - | Homepage |
