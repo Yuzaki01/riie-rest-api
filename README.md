@@ -1,6 +1,5 @@
-[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) ![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)
+### RiiE Rest API Made by Nathz
 
-# RiiE Rest API Made by Nathz
 ## **API**
 ```
 https://natsu.yuu02.repl.co/api/riie/
@@ -66,4 +65,6 @@ const fetch = require('node-fetch');
 }
 ```
 ## **Thank You For Visiting!**
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) ![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)
+
 * [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/Natsu062)
