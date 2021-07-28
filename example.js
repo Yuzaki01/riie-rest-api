@@ -8,4 +8,4 @@ const fetch = require('node-fetch');
     .then(res => {
         console.log(res);
     })
-})
+})()
