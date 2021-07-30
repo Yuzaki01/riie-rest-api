@@ -4,12 +4,12 @@
 API: https://natsu.yuu02.repl.co/api/riie/
 | No | Endpoint | Parameter | Description |
 | :---: | ------ | :------: | :--------: |
-| 1 | /homepage | - | Homepage |
-| 2 | /movie | - | Anime Movie | 
-| 4 | /ongoing/{pageNum}| pageNumber | Anime Ongoing |
-| 5 | /genres | - | Genre List |
-| 6 | /genre/{query}/{pageNum}| query, pageNumber | Search by Genre |
-| 7 | /search/{query} | query | Anime Search |
+| 1 | [/homepage](https://natsu.yuu02.repl.co/api/riie/homepage) | - | Homepage |
+| 2 | [/movie](https://natsu.yuu02.repl.co/api/riie/movie) | - | Anime Movie | 
+| 4 | [/ongoing/{pageNum}](https://natsu.yuu02.repl.co/api/riie/ongoing) | pageNumber | Anime Ongoing |
+| 5 | [/genres](https://natsu.yuu02.repl.co/api/riie/genres) | - | Genre List |
+| 6 | [/genre/{query}](https://natsu.yuu02.repl.co/api/riie/genre/action/1)/{pageNum}| query, pageNumber | Search by Genre |
+| 7 | [/search/{query}](https://natsu.yuu02.repl.co/api/riie/search) | query | Anime Search |
 
 ## **Usage**
 ```
