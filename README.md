@@ -8,7 +8,7 @@ API: https://natsu.yuu02.repl.co/api/riie/
 | 2 | [/movie](https://natsu.yuu02.repl.co/api/riie/movie) | - | Anime Movie | 
 | 4 | [/ongoing/{pageNum}](https://natsu.yuu02.repl.co/api/riie/ongoing) | pageNumber | Anime Ongoing |
 | 5 | [/genres](https://natsu.yuu02.repl.co/api/riie/genres) | - | Genre List |
-| 6 | [/genre/{query}](https://natsu.yuu02.repl.co/api/riie/genre/action/1)/{pageNum}| query, pageNumber | Search by Genre |
+| 6 | [/genre/{query}/{pageNum](https://natsu.yuu02.repl.co/api/riie/genre/action/1)}| query, pageNumber | Search by Genre |
 | 7 | [/search/{query}](https://natsu.yuu02.repl.co/api/riie/search) | query | Anime Search |
 
 ## **Usage**
